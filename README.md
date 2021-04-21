@@ -11,7 +11,7 @@ Am a software engineer passionate about building solutions that make life easier
 ### My Github stats
 ![Joshua's github stats](https://github-readme-stats.vercel.app/api?username=jwaiswa7)
 
-- 🔭 I am a software Engineer working with [Odetta](odetta.com) and do consultancy with [Jrental center](jrc.sg)
+- 🔭 I am a software Engineer working with [Odetta](https://odetta.com/) and do consultancy with [Jrental center](https://jrc.sg/)
 - 💬 Ask me about Ruby on Rails and Python
 - 🌱 I’m currently learning React JS, Next JS
 - ⚡ Fun fact, I study and sometimes make crypto investments. 
