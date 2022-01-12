@@ -1,6 +1,7 @@
 ## Hello, am Joshua
 <p>
-Am a software engineer passionate about building solutions that make life easier. I am currently specializing in backend projects built on Ruby on Rails, I however, am learning React and Next JS. I do a little python too. 
+Hello, I Am Joshua Waiswa an experienced, reliable Software developer with a focus on developing enterprise-grade web applications using Ruby on Rails. I work with a mix of tools including Git, Heroku, Rails 6, Rails 7, Unix systems, Sidekq Rspec, RESt, Graphql, and more.
+I have been successful in taking projects from concept to polished scalable applications in a time-efficient way.
 </p>
 <p align="center">
   
@@ -11,9 +12,8 @@ Am a software engineer passionate about building solutions that make life easier
 ### My Github stats
 ![Joshua's github stats](https://github-readme-stats.vercel.app/api?username=jwaiswa7)
 
-- 🔭 I am a software Engineer working with [Odetta](https://odetta.com/) and do consultancy with [Jrental center](https://jrc.sg/)
-- 💬 Ask me about Ruby on Rails and Python
-- 🌱 I’m currently learning React JS, Next JS
+- 💬 Ask me about Ruby on Rails
+- 🌱 I’m currently learning Rails 7, Ruby 3, Graphql 
 - ⚡ Fun fact, I study and sometimes make crypto investments. 
 
 <!--
