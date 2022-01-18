@@ -1,6 +1,6 @@
 ## Hello, am Joshua
 <p>
-Hello, I Am Joshua Waiswa an experienced, reliable Software developer with a focus on developing enterprise-grade web applications using Ruby on Rails. I work with a mix of tools including Git, Heroku, Rails 6, Rails 7, Unix systems, Sidekq Rspec, RESt, Graphql, and more.
+Hello, I Am Joshua Waiswa an experienced, reliable Software developer with a focus on developing enterprise-grade web applications using Ruby on Rails. I work with a mix of tools including Git, Heroku, Rails 6, Rails 7, Unix systems, Sidekq Rspec, REST, Graphql, and more.
 I have been successful in taking projects from concept to polished scalable applications in a time-efficient way.
 </p>
 <p align="center">
