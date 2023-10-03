@@ -9,9 +9,6 @@ I have been successful in taking projects from concept to polished scalable appl
    
 </p
 
-### My Github stats
-![Joshua's github stats](https://github-readme-stats.vercel.app/api?username=jwaiswa7)
-
 - 💬 Ask me about Ruby on Rails
 - 🌱 I’m currently learning Rails 7, Ruby 3, Graphql 
 - ⚡ Fun fact, I study and sometimes make crypto investments. 
