@@ -3,11 +3,11 @@
 Hello, I Am Joshua Waiswa an experienced, reliable Software developer with a focus on developing enterprise-grade web applications using Ruby on Rails. I work with a mix of tools including Git, Heroku, Rails 6, Rails 7, Unix systems, Sidekq Rspec, REST, Graphql, and more.
 I have been successful in taking projects from concept to polished scalable applications in a time-efficient way.
 </p>
-<p align="center">
-  
+<p align="center">  
    [LinkedIn](https://www.linkedin.com/in/joshua-waiswa-2a68509a)
-   
 </p
+
+<p>Am building an Itinerary service to make it easier for you to plan your next trip at [TembeaTena](https://tembeatena.com) which means travel again</p>
 
 - 💬 Ask me about Ruby on Rails
 - 🌱 I’m currently learning Rails 7, Ruby 3, Graphql 
