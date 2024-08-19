@@ -7,7 +7,7 @@ I have been successful in taking projects from concept to polished scalable appl
    [LinkedIn](https://www.linkedin.com/in/joshua-waiswa-2a68509a)
 </p
 
-<p>Am building an Itinerary service to make it easier for you to plan your next trip at (TembeaTena)[https://tembeatena.com] which means travel again</p>
+<p>Am building an Itinerary service to make it easier for you to plan your next trip at [TembeaTena](https://tembeatena.com) which means travel again</p>
 
 - 💬 Ask me about Ruby on Rails
 - 🌱 I’m currently learning Rails 7, Ruby 3, Graphql 
