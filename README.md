@@ -126,14 +126,6 @@ Makerere University
 - Clean architecture wins long term  
 - Scale intentionally  
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jwaiswa7&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwaiswa7&layout=compact&theme=radical" height="170"/>
-</p>
 
 ---
 
@@ -146,7 +138,7 @@ If you're building:
 - An AI-powered product  
 - Or infrastructure that *must not fail*  
 
-Let’s connect.
+Let’s connect. [jwaiswa7@gmail.com](mailto:jwaiswa7@gmail.com)
 
 ---
 
